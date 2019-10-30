@@ -1,15 +1,7 @@
 /*
 Link: https://www.cnblogs.com/linyujun/p/5198832.html
 */
-#include <bits/stdc++.h>
- 
-using namespace std;
- 
-#define ALL(x) x.begin(), x.end()
- 
-typedef long long int lld;
-typedef unsigned long long int ulld;
-typedef pair<int, int> pii;
+#include "../template.hpp"
 
 /*
 Note: only for non-negative number

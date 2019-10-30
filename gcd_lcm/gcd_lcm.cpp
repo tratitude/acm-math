@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
- 
+#include "../template.hpp" 
 using namespace std;
  
 #define ALL(x) x.begin(), x.end()

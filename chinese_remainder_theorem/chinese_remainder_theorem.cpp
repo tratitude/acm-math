@@ -5,15 +5,8 @@ Input:
     mouli: pairwise coprime
     intnum: any integers
 */
-#include <bits/stdc++.h>
- 
-using namespace std;
- 
-#define ALL(x) x.begin(), x.end()
- 
-typedef long long int lld;
-typedef pair<int, int> pii;
- 
+#include "../template.hpp"
+
 int main(){
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);

@@ -1,11 +1,4 @@
-#include <bits/stdc++.h>
- 
-using namespace std;
- 
-#define ALL(x) x.begin(), x.end()
- 
-typedef long long int lld;
-typedef pair<int, int> pii;
+#include "../template.hpp"
 /*
 Link: https://tinyurl.com/y4b63knz
 Note: given a and b, ax+by = gcd(a, b) has solution
