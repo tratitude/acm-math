@@ -1,5 +1,7 @@
 # 程式競賽-數論
+- [source code](https://github.com/tratitude/acm-math)
 ```cpp
+// template.hpp
 #include <bits/stdc++.h>
  
 using namespace std;
