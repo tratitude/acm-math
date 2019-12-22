@@ -1,3 +1,6 @@
+#ifndef TEMPLATE_HPP
+#define TEMPLATE_HPP
+
 #include <bits/stdc++.h>
  
 using namespace std;
@@ -7,3 +10,5 @@ using namespace std;
 typedef long long int lld;
 typedef unsigned long long int ulld;
 typedef pair<int, int> pii;
+
+#endif
